@@ -6,3 +6,4 @@ All information is Open Source, so if something is missing, feel free to [contri
 
 By medium:
 - [Books](books.md)
+- [Manufacturers](manufacturers.md)
