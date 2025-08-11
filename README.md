@@ -5,4 +5,4 @@
 All information is Open Source, so if something is missing, feel free to [contribute on GitHub](https://github.com/HEMAGuide/hema-hub).
 
 By medium:
-- [Books](/books)
+- [Books](books.md)
